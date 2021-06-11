@@ -5,8 +5,7 @@ img {
     outline-style: auto;
 }
 body {
-    background-color: pink; 
-    background-image: url(https://wisnuhari65.github.io/Background%20CSS.jpg);
+    background-color: wheat; 
     background-repeat: no-repeat;
     background-size: cover;
 }
