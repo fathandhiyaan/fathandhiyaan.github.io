@@ -5,9 +5,7 @@ img {
     outline-style: auto;
 }
 body {
-    background-color: wheat; 
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: wheat;
 }
 table {
     font-family: Arial, Helvetica, sans-serif;
