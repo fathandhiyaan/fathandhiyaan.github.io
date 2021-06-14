@@ -15,13 +15,13 @@ th,td {
 }
 
 th {
-	background-color: darkcyan;
-	color: whitesmoke;
+	background-color: lightsalmon;
+	color: lemonchiffon;
 	text-shadow: 1px 1px 2px black;
 }
 
 td {
-	background-color: darkcyan;
+	background-color: cornflowerblue;
 	color: whitesmoke;
 	text-align: center;
 	padding: 20px;
